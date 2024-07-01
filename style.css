@@ -1,7 +1,6 @@
-.outer {
-	background-color: orange;
-	height: 600px;
+section {
+	padding: 60px 0px;
 }
-.inner {
-	background-color: blue;
+.img1 {
+	background-image: url('./img/view-1.jpg');
 }
